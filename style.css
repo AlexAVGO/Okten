@@ -1,0 +1,14 @@
+.pic {
+    width: 240px;
+    height: 320px;
+}
+
+.h2 {
+    background: rgba(0, 0, 0, 0.35)
+}
+
+#bs {
+    color: aqua
+}
+#hs{color: cornsilk}
+#ms {color: gold}
